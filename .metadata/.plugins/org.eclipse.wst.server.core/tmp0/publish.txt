@@ -1,0 +1,4 @@
+#Tomcat publish data
+#Wed Nov 02 14:46:14 IST 2022
+org.eclipse.jst.j2ee.server\:/binary\:C\:\\Users\\SUMDHOLE\\.m2\\repository\\org\\springframework\\spring-web\\5.3.23\\spring-web-5.3.23.jar=WEB-INF/lib/spring-web-5.3.23.jar
+org.eclipse.jst.j2ee.server\:productservices=WEB-INF/lib/productservices-1.0.jar
